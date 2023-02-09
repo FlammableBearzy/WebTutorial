@@ -3,6 +3,26 @@
     "cookie-parser": "^1.4.6",
     "dotenv": "^16.0.3",
     "express": "^4.18.2",
-    "morgan": "^1.10.0"
-  }
+    "morgan": "^1.10.0",
+    "pg": "^8.9.0"
+  },
+  "name": "webtutorial",
+  "description": "Web programming tutorial \r Change the text there to something like \"My first Node app\".",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FlammableBearzy/WebTutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FlammableBearzy/WebTutorial/issues"
+  },
+  "homepage": "https://github.com/FlammableBearzy/WebTutorial#readme"
 }
